@@ -1,0 +1,13 @@
+jens,Hansen,27,true,true,true,false
+Albert,Jensen,25,true,true,true,false
+Victor,Knudsen,25,true,true,true,false
+Elaf,Madsen,25,true,true,true,false
+Anders,Frandsen,17,true,true,false,false
+Simon,Jørgensen,16,true,true,false,false
+Anton,Antonssen,16,true,true,false,false
+William,Williamsen,15,true,true,false,false
+Klaus,Sørensen,35,true,true,true,false
+Simone,Thomassen,25,true,true,true,false
+Bent,Paulsen,71,true,false,true,false
+Ulla,Jærger,82,true,false,true,false
+Johanne,Albertsen,75,true,true,true,false
